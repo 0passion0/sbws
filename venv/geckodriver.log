@@ -1,0 +1,223 @@
+1666681106047	geckodriver	INFO	Listening on 127.0.0.1:49749
+1666681109116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49750" "-no-remote" "-profile" "C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileXzq6wO"
+1666681109345	Marionette	INFO	Marionette enabled
+1666681109348	Marionette	INFO	Listening on port 49758
+WebDriver BiDi listening on ws://127.0.0.1:49750
+1666681109694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileXzq6wO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49750/devtools/browser/6c85f0ec-5537-4808-8029-ba028deb9a8e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666681126146	Marionette	INFO	Stopped listening on port 49758
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666681167079	geckodriver	INFO	Listening on 127.0.0.1:49965
+1666681170152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49966" "-no-remote" "-profile" "C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileRhjt0m"
+1666681170371	Marionette	INFO	Marionette enabled
+1666681170374	Marionette	INFO	Listening on port 49973
+WebDriver BiDi listening on ws://127.0.0.1:49966
+1666681170708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileRhjt0m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49966/devtools/browser/009ca5ba-1823-450d-b832-c108142de8c9
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 3501 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://wall.alphacoders.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 3508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 2685 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 6869 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666683378666	Marionette	INFO	Stopped listening on port 49973
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofilenXKa5N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51103/devtools/browser/08edea14-a111-48d5-8619-6a15aa942278
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 7510 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: ShellService: Setting Firefox as default using UserChoice
+console.debug: ShellService: 
+  Current default PDF handler progID does not match known browser prefix; should not set as default PDF handler.
+console.info: ShellService: Not setting Firefox as default PDF handler
+1666683377704	Marionette	INFO	Stopped listening on port 51108
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\\Temp\\rust_mozprofileRDy31y"
+1666683122845	Marionette	INFO	Marionette enabled
+1666683122848	Marionette	INFO	Listening on port 54006
+WebDriver BiDi listening on ws://127.0.0.1:53999
+1666683123221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileRDy31y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53999/devtools/browser/ba6b0f63-d597-45c3-829d-ba87c6d7fee0
+1666683153338	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 3331 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'domnode's method 'getImageData'" "Image 'https://images8.alphacoders.com/755/755323.jpg' took too long to load."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsJavaScript error: https://wall.alphacoders.com/bootstrap-3.3.7-custom.min.js, line 11: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://wall.alphacoders.com/by_sub_category.php?id=205472&name=JOJO%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9, line 5213: ReferenceError: $ is not defined
+JavaScript error: https://wall.alphacoders.com/by_sub_category.php?id=205472&name=JOJO%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9, line 5296: ReferenceError: $ is not defined
+JavaScript error: https://wall.alphacoders.com/by_sub_category.php?id=205472&name=JOJO%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9, line 5556: ReferenceError: $ is not defined
+JavaScript error: https://wall.alphacoders.com/by_sub_category.php?id=205472&name=JOJO%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9, line 5591: ReferenceError: $ is not defined
+JavaScript error: https://wall.alphacoders.com/by_sub_category.php?id=205472&name=JOJO%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9, line 5627: ReferenceError: $ is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/uorw1Q15Z41enm5ok1wjUR_2roEciA9rCBWFXmlrAj4.js line 2 > eval line 1544 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666684535995	Marionette	INFO	Stopped listening on port 54689
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667655730630	geckodriver	INFO	Listening on 127.0.0.1:59858
+1667655733675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59859" "-no-remote" "-profile" "C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofilesrUPvp"
+1667655733979	Marionette	INFO	Marionette enabled
+1667655733982	Marionette	INFO	Listening on port 59875
+WebDriver BiDi listening on ws://127.0.0.1:59859
+1667655734205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofilesrUPvp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59859/devtools/browser/adaa91f6-eb6d-45e1-bb9d-d170e371375e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport2.chaoxing.com."
+JavaScript warning: http://kb.chaoxing.com/res/pc/js/jquery.min.js?t=1, line 59: unreachable code after return statement
+1667655754879	Marionette	INFO	Stopped listening on port 59875
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667655757087	geckodriver	INFO	Listening on 127.0.0.1:55305
+1667655760135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55306" "-no-remote" "-profile" "C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileZgxzYU"
+1667655760361	Marionette	INFO	Marionette enabled
+1667655760364	Marionette	INFO	Listening on port 55320
+WebDriver BiDi listening on ws://127.0.0.1:55306
+1667655760705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileZgxzYU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55306/devtools/browser/f9121ac3-6518-4ebc-a385-ecbad2def450
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport2.chaoxing.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport2.chaoxing.com."
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+1667660836778	Marionette	INFO	Stopped listening on port 55320
+l be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileJJtDu4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55431/devtools/browser/565f3507-2af1-4f00-ac8b-4104d319f5ee
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667656320278	Marionette	INFO	Stopped listening on port 55443
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+ew NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofileWPbciL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58490/devtools/browser/6249d098-3043-4510-935e-5b34cdea44db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport2.chaoxing.com."
+JavaScript warning: http://kb.chaoxing.com/res/pc/js/jquery.min.js?t=1, line 59: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667656318842	Marionette	INFO	Stopped listening on port 58505
+941	Marionette	INFO	Marionette enabled
+1667655986944	Marionette	INFO	Listening on port 64253
+WebDriver BiDi listening on ws://127.0.0.1:64241
+1667655987292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T1796\\AppData\\Local\\Temp\\rust_mozprofilemUzxe0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64241/devtools/browser/c56bc84d-0d16-4e40-a327-dd33fef42888
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport2.chaoxing.com."
+JavaScript warning: http://kb.chaoxing.com/res/pc/js/jquery.min.js?t=1, line 59: unreachable code after return statement
+1667656316540	Marionette	INFO	Stopped listening on port 64253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1691459988547	geckodriver	INFO	Listening on 127.0.0.1:1938
+1691459991579	mozrunner::runner	INFO	Running command: "E:\\软件\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "1939" "-no-remote" "-profile" "C:\\Users\\TLG\\AppData\\Local\\Temp\\rust_mozprofile5xBwkx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691459991896	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691459991969	Marionette	INFO	Listening on port 1951
+WebDriver BiDi listening on ws://127.0.0.1:1939
+1691459992187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1939/devtools/browser/04f04eab-79c9-4f67-80ad-f33210c4cc0a
+JavaScript warning: https://kyfw.12306.cn/otn/logsdk/handleIframeInner.js, line 1: WebGL context was lost.
+JavaScript warning: https://kyfw.12306.cn/otn/logsdk/handleIframeInner.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kyfw.12306.cn/otn/logsdk/handleIframeInner.js, line 1: WebGL context was lost.
+JavaScript warning: https://kyfw.12306.cn/otn/logsdk/handleIframeInner.js, line 1: WebGL context was lost.
+JavaScript warning: https://kyfw.12306.cn/otn/logsdk/handleIframeInner.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kyfw.12306.cn/otn/logsdk/handleIframeInner.js, line 1: WebGL context was lost.
+1691460005644	Marionette	INFO	Stopped listening on port 1951
+Dynamically enable window occlusion 1
