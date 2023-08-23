@@ -5,7 +5,7 @@ import time
 import multiprocessing
 
 import aiohttp
-from selenium.webdriver import Chrome
+from selenium.webdriver import Firefox
 async def fetch(session, url):
     print("发送请求:", url)
     async with session.get(url, verify_ssl=False) as response:
@@ -23,7 +23,7 @@ async def imgs(url_list):
         await asyncio.wait(tasks)
 
 def tlg(driver, page):
-    url = f"https://wall.alphacoders.com/by_collection.php?id=275&page={page}"
+    url = f"https://wall.alphacoders.com/by_sub_category.php?id=167147&name=Dragon+Wallpapers&filter=4K+Ultra+HD&page={page}"
     driver.get(url)
     req = driver.page_source
     pattern = r'<meta itemprop="contentUrl" content="(https://[^"]+)">'

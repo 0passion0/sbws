@@ -5,7 +5,7 @@ import time
 
 import aiohttp  # 导入异步 HTTP 请求库
 import asyncio  # 导入异步编程库
-from selenium.webdriver import Chrome  # 从 Selenium 库导入 Chrome WebDriver
+from selenium.webdriver import Firefox  # 从 Selenium 库导入 Chrome WebDriver
 
 # 异步下载函数，使用 aiohttp 库
 async def fetch(session, url):
@@ -28,7 +28,7 @@ async def imgs(url_list):
 # 使用 Selenium 获取图片链接并下载的函数
 def tlg(driver, page):
     # https://wall.alphacoders.com/tag/suguru-geto-wallpapers?page=2
-    url = f"https://wall.alphacoders.com/by_collection.php?id=654&page={page}"  # 构建页面 URL
+    url = f"https://wall.alphacoders.com/by_sub_category.php?id=167147&name=Dragon+Wallpapers&filter=4K+Ultra+HD&page={page}"  # 构建页面 URL
     driver.get(url)  # 打开页面
     time.sleep(2)
     req = driver.page_source  # 获取页面源代码
@@ -45,7 +45,7 @@ def tlg(driver, page):
 
 # 页面爬取函数
 def scrape_page(page):
-    driver = Chrome()  # 创建 Chrome WebDriver 实例
+    driver = Firefox()  # 创建 Chrome WebDriver 实例
     print(f"Scraping page {page}")
     tlg(driver, page)  # 调用 Selenium 获取链接并异步下载图片
     driver.close()  # 关闭 WebDriver 实例
